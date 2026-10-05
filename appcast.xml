@@ -4,6 +4,15 @@
     <title>MediaManager</title>
     <!-- Newest first. Written by scripts/make-release.sh in the app's repo; do not edit by hand. -->
     <item>
+      <title>1.0 (228)</title>
+      <pubDate>Mon, 05 Oct 2026 18:12:01 GMT</pubDate>
+      <sparkle:version>228</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Test update — nothing changes in the app. If you&#x27;re reading this, updates work.</li></ul>]]></description>
+      <enclosure url="https://github.com/StijnAa/mediamanager-releases/releases/download/v1.0-228/MediaManager-1.0-228.dmg" type="application/octet-stream" sparkle:edSignature="KjdhGLKZM10uQcdAE0CpU5dsy9XJCYTUQIPiFDsX6RUNrn9dFlby305wS7azxFxmFKFKQI6w9h2VbzObIbGyCg==" length="6787823" />
+    </item>
+    <item>
       <title>1.0 (227)</title>
       <pubDate>Mon, 05 Oct 2026 18:05:55 GMT</pubDate>
       <sparkle:version>227</sparkle:version>
