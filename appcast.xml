@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MediaManager</title>
+    <!-- Newest first. Written by scripts/make-release.sh in the app's repo; do not edit by hand. -->
+    <item>
+      <title>1.0 (227)</title>
+      <pubDate>Mon, 05 Oct 2026 18:05:55 GMT</pubDate>
+      <sparkle:version>227</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First build that updates itself: the app now checks for new versions once a day, and MediaManager &gt; Check for Updates… checks right away.</li></ul>]]></description>
+      <enclosure url="https://github.com/StijnAa/mediamanager-releases/releases/download/v1.0-227/MediaManager-1.0-227.dmg" type="application/octet-stream" sparkle:edSignature="j5LHhj5WF5jw0qXVvUqu8kR8Uq6FWPdEplQUczHHGGiipzLqE2UjurHH5MtCvEARXL11XMmnksSXKFp26LusAw==" length="6787755" />
+    </item>
+  </channel>
+</rss>
