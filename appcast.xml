@@ -4,6 +4,15 @@
     <title>MediaManager</title>
     <!-- Newest first. Written by scripts/make-release.sh in the app's repo; do not edit by hand. -->
     <item>
+      <title>1.0 (289)</title>
+      <pubDate>Tue, 20 Oct 2026 19:40:12 GMT</pubDate>
+      <sparkle:version>289</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The camera row opens on the camera last used that day, and on Camera A on a new day</li><li>Copy Options marks the choices your last transfer made with a floppy disk</li><li>The transfer screen&#x27;s Close button now says Close Transfer</li><li>File name previews no longer show the card name twice</li><li>Choose a Folder on the Locations step says you can add up to 7 destinations</li><li>On the transfer screen, the other drives&#x27; tabs look inactive rather than greyed out</li><li>The feedback thank-you sits a little lower and stays up a little longer</li></ul>]]></description>
+      <enclosure url="https://github.com/StijnAa/mediamanager-releases/releases/download/v1.0-289/MediaManager-1.0-289.dmg" type="application/octet-stream" sparkle:edSignature="Ubd02eL6jXESJSadyI1caOJ+f4drxSa7BWGRbgGZRA/8fSuLihecJaouxTuoGwIEl/+fQK2EktULXML8KhAnBQ==" length="7587303" />
+    </item>
+    <item>
       <title>1.0 (281)</title>
       <pubDate>Fri, 16 Oct 2026 15:04:15 GMT</pubDate>
       <sparkle:version>281</sparkle:version>
