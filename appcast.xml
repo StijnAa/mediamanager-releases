@@ -4,6 +4,15 @@
     <title>MediaManager</title>
     <!-- Newest first. Written by scripts/make-release.sh in the app's repo; do not edit by hand. -->
     <item>
+      <title>1.0 (332)</title>
+      <pubDate>Mon, 26 Oct 2026 19:29:41 GMT</pubDate>
+      <sparkle:version>332</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A new Settings window (⌘,): open at login, keep running in the menu bar, and bring the window forward when a card goes in</li><li>Multiple transfers in Settings: copy the extra drives from the first transfer or straight from the card, each shown as a picture</li><li>Restart to Apply in Settings, for a change that needs the app to start again</li><li>Settings has Updates and Privacy tabs: turn automatic update checks or usage data off, and forget your saved feedback details</li><li>SD Manager keeps running in the menu bar when you close its window, and starts quietly at login</li><li>Putting a card in brings the window to the front</li><li>A card with only audio ticked goes into the Audio folder</li><li>A running transfer shows time remaining, speed and when it will finish</li><li>Home offers Eject Card beside Continue</li><li>A card you already copied shows Card already transferred instead of starting over</li><li>A failed copy keeps the files that were checked before it failed</li><li>The Locations list scrolls while its heading stays in place</li></ul>]]></description>
+      <enclosure url="https://github.com/StijnAa/mediamanager-releases/releases/download/v1.0-332/MediaManager-1.0-332.dmg" type="application/octet-stream" sparkle:edSignature="nSmdAoNHYBmykUM1oS/EOhsJ88WKArbrvSb/hMQbRoUZm/xLiDo/xv+cB4oruoWH5WjScbowMblNc6wUm7VsDA==" length="7948962" />
+    </item>
+    <item>
       <title>1.0 (289)</title>
       <pubDate>Tue, 20 Oct 2026 19:40:12 GMT</pubDate>
       <sparkle:version>289</sparkle:version>
