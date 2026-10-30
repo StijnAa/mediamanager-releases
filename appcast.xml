@@ -4,6 +4,15 @@
     <title>MediaManager</title>
     <!-- Newest first. Written by scripts/make-release.sh in the app's repo; do not edit by hand. -->
     <item>
+      <title>1.0 (399)</title>
+      <pubDate>Fri, 30 Oct 2026 12:33:27 GMT</pubDate>
+      <sparkle:version>399</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The first launch plays a short launch film, then a Tour: a demo run through the real screens with a made-up card, and a recap of what the app does</li><li>Help → Show Tour plays the Tour again whenever you like</li><li>The project name field starts empty, with no example name in it</li></ul>]]></description>
+      <enclosure url="https://github.com/StijnAa/mediamanager-releases/releases/download/v1.0-399/MediaManager-1.0-399.dmg" type="application/octet-stream" sparkle:edSignature="xE1o5TbIgN/OlG1OCwo2q6PVvgNKCeCBX7ImHpwDnpPBNRnNkL/k+0xaeZlyHZ4aWUW23XpbbPBGUieCn+dYDA==" length="18202000" />
+    </item>
+    <item>
       <title>1.0 (332)</title>
       <pubDate>Mon, 26 Oct 2026 19:29:41 GMT</pubDate>
       <sparkle:version>332</sparkle:version>
