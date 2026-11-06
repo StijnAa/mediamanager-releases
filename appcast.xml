@@ -4,6 +4,15 @@
     <title>MediaManager</title>
     <!-- Newest first. Written by scripts/make-release.sh in the app's repo; do not edit by hand. -->
     <item>
+      <title>1.0 (402)</title>
+      <pubDate>Fri, 06 Nov 2026 17:28:06 GMT</pubDate>
+      <sparkle:version>402</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The app is now called Arko. It starts fresh: projects and history from MediaManager do not carry over, and macOS asks for access to your cards again</li><li>After a restart the app waits in the menu bar instead of showing a Dock icon with no window</li><li>Opening the app from Spotlight, Finder or the Dock while it sits in the menu bar brings its window forward</li></ul>]]></description>
+      <enclosure url="https://github.com/StijnAa/mediamanager-releases/releases/download/v1.0-402/Arko-1.0-402.dmg" type="application/octet-stream" sparkle:edSignature="JPnCfDaoPl/KKcc/kS79R9MPBClhjYXNDfXX7z50/SDMH8BirfKK4sdMz5/yZCANfsp5Onj75/7XBA/ixn8uDw==" length="18133117" />
+    </item>
+    <item>
       <title>1.0 (399)</title>
       <pubDate>Fri, 30 Oct 2026 12:33:27 GMT</pubDate>
       <sparkle:version>399</sparkle:version>
