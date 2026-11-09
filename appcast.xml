@@ -4,6 +4,15 @@
     <title>MediaManager</title>
     <!-- Newest first. Written by scripts/make-release.sh in the app's repo; do not edit by hand. -->
     <item>
+      <title>1.0 (406)</title>
+      <pubDate>Mon, 09 Nov 2026 16:54:30 GMT</pubDate>
+      <sparkle:version>406</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>You can choose how copied files are named: Edit on the Rename files option builds the name from blocks such as project, date, Day and card, with a live example of the result</li><li>Each project remembers its own naming; a new project starts with the one you saved last</li></ul>]]></description>
+      <enclosure url="https://github.com/StijnAa/mediamanager-releases/releases/download/v1.0-406/Arko-1.0-406.dmg" type="application/octet-stream" sparkle:edSignature="PG9WAPzyMM+XwH0rORbKfDosthDQCy7SeZCrZCfav0gg6/CHKKqMunlzf3tkXqpmMeT4kMyRwDTIrgwFagfqAw==" length="18361309" />
+    </item>
+    <item>
       <title>1.0 (402)</title>
       <pubDate>Fri, 06 Nov 2026 17:28:06 GMT</pubDate>
       <sparkle:version>402</sparkle:version>
