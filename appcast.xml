@@ -4,6 +4,15 @@
     <title>MediaManager</title>
     <!-- Newest first. Written by scripts/make-release.sh in the app's repo; do not edit by hand. -->
     <item>
+      <title>1.0 (411)</title>
+      <pubDate>Fri, 13 Nov 2026 12:50:51 GMT</pubDate>
+      <sparkle:version>411</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The app icon has rounded corners again</li></ul>]]></description>
+      <enclosure url="https://github.com/StijnAa/mediamanager-releases/releases/download/v1.0-411/Arko-1.0-411.dmg" type="application/octet-stream" sparkle:edSignature="woZUYMyk6CebkEz7nw449xoc3qYrHiyIRLF8T7Wte0ssTtYBjaMS/CBhZGbFsNyXkYSDC9kP9uS+hOMkw1meAw==" length="22559078" />
+    </item>
+    <item>
       <title>1.0 (409)</title>
       <pubDate>Fri, 13 Nov 2026 12:26:54 GMT</pubDate>
       <sparkle:version>409</sparkle:version>
