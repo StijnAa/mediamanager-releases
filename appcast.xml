@@ -4,6 +4,15 @@
     <title>MediaManager</title>
     <!-- Newest first. Written by scripts/make-release.sh in the app's repo; do not edit by hand. -->
     <item>
+      <title>1.0 (409)</title>
+      <pubDate>Fri, 13 Nov 2026 12:26:54 GMT</pubDate>
+      <sparkle:version>409</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Arko has its own app icon</li><li>A new intro film plays the first time you open Arko</li></ul>]]></description>
+      <enclosure url="https://github.com/StijnAa/mediamanager-releases/releases/download/v1.0-409/Arko-1.0-409.dmg" type="application/octet-stream" sparkle:edSignature="dVWwDHFU97OYJ0jtF9DMoTtI/EZ+oziDSUc9CEaCMxFCE2caNB860fTs9hIxEIgaA4zoARfA0ln2seNDIIMfAw==" length="20457199" />
+    </item>
+    <item>
       <title>1.0 (406)</title>
       <pubDate>Mon, 09 Nov 2026 16:54:30 GMT</pubDate>
       <sparkle:version>406</sparkle:version>
