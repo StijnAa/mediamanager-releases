@@ -4,6 +4,15 @@
     <title>MediaManager</title>
     <!-- Newest first. Written by scripts/make-release.sh in the app's repo; do not edit by hand. -->
     <item>
+      <title>1.0 (450)</title>
+      <pubDate>Fri, 27 Nov 2026 15:41:58 GMT</pubDate>
+      <sparkle:version>450</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The trial in the status bar has a Buy Now button from day one, and clicking the days left opens the buy screen too</li><li>After paying in the browser, Arko notices by itself when you come back and unlocks</li><li>Check Again shows a spinner while it checks for your payment</li></ul>]]></description>
+      <enclosure url="https://github.com/StijnAa/mediamanager-releases/releases/download/v1.0-450/Arko-1.0-450.dmg" type="application/octet-stream" sparkle:edSignature="G0KI2f3Pr59YaFsM2DUSX1lh01/ranC2d7nGDsiEJP+1aeefCSTPs5zI2bbD2hhW5ylc677g1VzBrI26pkfcDA==" length="23530437" />
+    </item>
+    <item>
       <title>1.0 (445)</title>
       <pubDate>Fri, 27 Nov 2026 15:05:41 GMT</pubDate>
       <sparkle:version>445</sparkle:version>
