@@ -4,6 +4,15 @@
     <title>MediaManager</title>
     <!-- Newest first. Written by scripts/make-release.sh in the app's repo; do not edit by hand. -->
     <item>
+      <title>1.0 (445)</title>
+      <pubDate>Fri, 27 Nov 2026 15:05:41 GMT</pubDate>
+      <sparkle:version>445</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Start your free trial by signing in with your email: Arko emails you a code</li><li>Your trial and purchase follow your email, on up to three Macs at once</li><li>Settings lists your Macs, and can remove one, sign out, or manage your subscription</li><li>Buy Arko monthly or for life from inside the app (test payments for now: use card 4242 4242 4242 4242)</li><li>After paying, Arko unlocks by itself on every Mac you are signed in on</li><li>The launch intro has a new, louder sound mix</li></ul>]]></description>
+      <enclosure url="https://github.com/StijnAa/mediamanager-releases/releases/download/v1.0-445/Arko-1.0-445.dmg" type="application/octet-stream" sparkle:edSignature="HtThPMwVqASgBwzrzaNwYprJCL2qi7IGxEGWXiSOgpoNs9x6cUOPeqLW1nv71dOP0Xf9+TzA53pEBXEr9MntBw==" length="23529191" />
+    </item>
+    <item>
       <title>1.0 (411)</title>
       <pubDate>Fri, 13 Nov 2026 12:50:51 GMT</pubDate>
       <sparkle:version>411</sparkle:version>
